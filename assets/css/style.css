@@ -55,6 +55,10 @@ nav a:hover {
 	border-radius: 10px;
 }
 
+.produtos li:first-child {
+	height: 397px;
+}
+
 .produtos li:hover {
 	border-color: #C78C19;
 }
